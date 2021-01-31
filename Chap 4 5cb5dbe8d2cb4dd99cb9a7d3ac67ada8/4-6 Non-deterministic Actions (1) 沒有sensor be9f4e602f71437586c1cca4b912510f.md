@@ -44,4 +44,4 @@ belief states: 是一個 state的集合，你相信目前世界的狀態是其�
 
 這樣就很難找出solution，因為很難把 belief state 縮小到只剩 goal state。
 
-解決：裝 sensor → [With sensor](https://www.notion.so/4-7-Non-deterministic-action-2-with-sensor-853bb391f076419687b2c849de84e20c)
+解決：裝 sensor → [With sensor](4-7_Non-deterministic-action.md)
