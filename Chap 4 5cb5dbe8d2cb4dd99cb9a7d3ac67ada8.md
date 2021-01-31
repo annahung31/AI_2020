@@ -24,4 +24,4 @@
 
 [4-6 Non-deterministic Actions (1) :沒有sensor](Chap%204%205cb5dbe8d2cb4dd99cb9a7d3ac67ada8/4-6%20Non-deterministic%20Actions%20(1)%20%E6%B2%92%E6%9C%89sensor%20be9f4e602f71437586c1cca4b912510f.md)
 
-[4-7 Non-deterministic action(2): with sensor](Chap%204%205cb5dbe8d2cb4dd99cb9a7d3ac67ada8/4-7%20Non-deterministic%20action(2)%20with%20sensor%20853bb391f076419687b2c849de84e20c.md)
+[4-7 Non-deterministic action(2): with sensor](Chap%204%205cb5dbe8d2cb4dd99cb9a7d3ac67ada8/4-7_Non-deterministic-action.md)
