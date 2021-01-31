@@ -16,4 +16,4 @@ A*可以找到optimal, 但是也一樣會遇到memory不夠的問題 -> Iterativ
 
 ex: 對 DFS 來說， 在第 d 層 所展開的 node 共有 b * d 個，但在 IDA, 要展開 f = 85.2 的  node 可能只有幾個。
 
-改進 → [RBFS](3-11\RBFS\e6b372788b2446989351bd993a4d0ce4.md)
+改進 → [RBFS](3-11_RBFS.md)
